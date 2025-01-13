@@ -2,7 +2,7 @@ Questline: “The Flame of Kraków: A Nation Reborn”
 Stage 1: The Anomaly Appears
 In the year 1836, as Kraków awakens to a surge of Polish nationalistic spirit, a strange occurrence disrupts the city's quiet mornings. Scholars and intellectuals, deep in the study of Poland’s past, begin experiencing vivid dreams and visions. These are not the dreams of the present but those of a future they can barely comprehend. It is through these fleeting glimpses of the future that the people of Kraków begin to understand their destiny—Poland will not remain under foreign rule forever.
 
-These are not mere prophecies; they are whispers from the future. An unknown force—perhaps a quirk of time itself—has allowed Kraków to receive messages and knowledge from Poland's future, specifically from the years after World War I but before the Cold War. This future Poland, now a strong and independent state, sends fragments of technological advancements, military strategies, and even glimpses of cultural renaissance.
+These are not mere prophecies; they are whispers from the future. An unknown force—perhaps a quirk of time itself—has allowed Kraków to receive messages and knowledge from Poland's future, specifically from march 1939. This future Poland, now a strong and independent state, sends fragments of technological advancements, military strategies, and even glimpses of cultural renaissance. Yet its under threat now they will try to prevent it by changing the past.
 
 Kraków, once a small city, is suddenly imbued with the knowledge of the future. The scholars, now possessing blueprints for industrial advancements, military tactics, and cultural preservation methods, begin to push Poland’s movement for independence forward. This knowledge sparks a new era of enlightenment, and Kraków quickly becomes a beacon of hope for the entire nation.
 
@@ -27,5 +27,8 @@ With the future's knowledge, Kraków’s leaders begin the difficult task of unitin
 
 As the mysterious time travelers fade from Kraków’s history, their legacy endures. The knowledge they imparted lives on in the hearts of the Polish people, who now believe that the past, present, and future are intertwined in the eternal struggle for independence. The flame of Kraków has ignited a fire that will burn brightly for generations to come.
 
-End of the Questline
+stage 5.1: End of the Questline (krakow doesn't have more then 1 state also indepentend )
 Kraków, having withstood the trials of time and the weight of history, now stands as the beacon of Polish identity, forever guided by the knowledge of a future Poland. The story of Kraków’s rise—from a humble city to the heart of a reborn nation—is a tale that transcends time itself.
+
+stage 5.2: all polish under one banner (Krakow got all of Kraków state and galica also indepentend)
+Kraków can't let others oppress polish people we need the russian and prussian lands aswell. (claims on lands with high starting (would love dymanic) polish population in prussia and Russia)
