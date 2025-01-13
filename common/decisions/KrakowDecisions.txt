@@ -1,0 +1,25 @@
+krakow_test_trigger_decision = {
+    
+    is_shown = {
+        # Optional: Conditions to show the decision
+        c:KRA = ROOT
+    }
+
+    possible = {
+        # Conditions for the decision to be available
+        # Check for specific attributes or states, not tags directly
+        c:KRA = {
+			
+		}
+        
+    }
+    
+    when_taken = {
+        trigger_event = { id = KrakowTech.3 }
+    }
+
+    ai_chance = {
+        base = 1
+        # Adjust AI behavior as needed
+    }
+}

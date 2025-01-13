@@ -1,0 +1,40 @@
+namespace = Krakow
+
+KrakowTech.3 = {
+    type = country_event
+    placement = root
+    title = KrakowTech.3.t
+    desc = KrakowTech.3.d
+    flavor = KrakowTech.3.f
+    duration = 3
+    event_image = {
+		video = "europenorthamerica_london_center"
+	}
+
+    icon = "gfx/interface/icons/event_icons/waving_flag.dds"
+
+    trigger = {
+        
+       c:KRA = ROOT
+        
+    }
+
+    immediate = {
+        # add_technology_progress = {
+        #     progress = 10
+        #     technology = stormtroopers
+        # }
+    }
+
+    option = {
+        name = KrakowTech.3.a
+
+        
+        
+    }
+
+    option = {
+        name = KrakowTech.3.b
+        default_option = yes
+    }
+}
